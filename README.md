@@ -1,4 +1,4 @@
-# About the datastes of the AADH-YOLOv5
+# About the dataste of the AADH-YOLOv5
 
 
-The datasets of DGD-6 will be publised after paper accept.
+The dataset of DGD-6 will be publised after paper accept.
