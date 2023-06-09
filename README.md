@@ -1,4 +1,4 @@
-# About the dataste of the AADH-YOLOv5
+#AADH-YOLOv5
 
 
-The dataset of DGD-6 will be publised after paper accept.
+This repository is about the work of AADH-YOLOv5. Dataset and models will be publicly available immediately if the paper is accepted.
