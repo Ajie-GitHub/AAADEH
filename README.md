@@ -5,7 +5,7 @@ This repository is about the work of AADH-YOLOv5: improved YOLOv5 based on adapt
 We provide the datasets DGD-6 of our paper in [BaiDuYunlink](https://pan.baidu.com/s/1JIBtz8AR_kM9eWwd1N9nHQ).
 
 ## Citation
-If you find this work interesting in your research, please cite:
+If you find this work interesting and use our dataset in your research, please cite:
 ```
 @article{10.1117/1.JEI.32.4.043017,
 author = {Yun Jia and Jie Zhao and Lidan Yu},
