@@ -1,5 +1,5 @@
 # AADH-YOLOv5
-This repository is about the work of AADH-YOLOv5: improved YOLOv5 based on adaptive activate decoupled head for garbage detection. Dataset will be publicly available if the paper is accepted.
+This repository is about the work of AADH-YOLOv5: improved YOLOv5 based on adaptive activate decoupled head for garbage detection.
 
 # Datasets
 We provide the datasets DGD-6 of our paper in [BaiDuYunlink](https://pan.baidu.com/s/1JIBtz8AR_kM9eWwd1N9nHQ).
@@ -19,3 +19,5 @@ If you find this work interesting and use our dataset in your research, please c
 }
 ```
 
+If you encounter any problems with the code, want to report bugs, etc.
+Please contact me at jiezhao_99@163.com.
